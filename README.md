@@ -1,6 +1,6 @@
 # Security Testing Suite
 
-[![Security Tests](https://github.com/Djones-qa/security-testing-owasp-zap/actions/workflows/security-tests.yml/badge.svg?branch=master)](https://github.com/Djones-qa/security-testing-owasp-zap/actions/workflows/security-tests.yml)
+[![Security Tests](https://github.com/Djones-qa/security-testing-owasp-zap/actions/workflows/security-tests.yml/badge.svg)](https://github.com/Djones-qa/security-testing-owasp-zap/actions/workflows/security-tests.yml)
 
 A Python-based security test suite validating OWASP-aligned security controls against real web targets. Tests cover security headers, injection prevention, authentication, CORS policy, and information disclosure.
 
